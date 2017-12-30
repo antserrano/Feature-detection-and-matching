@@ -2,7 +2,9 @@
 
 This assignment makes use of the SIFT descriptor [1].
 
-Specifically, descriptors from two images are gotten and afterwards they are matched following two methods (brute force and knnMatch). 
+First, descriptors from two images are gotten and afterwards they are matched following two methods (brute force and knnMatch). 
+These two images are of the same object/place but taken from different points of view. Thereby, the point in the first image will be match with the same point (in another position) in the second one. 
+
 Lastly, a mosaic is created by using descriptors and homographies. 
 
 OpenCV (Open Source Computer Vision Library) is used in this assignment.  
