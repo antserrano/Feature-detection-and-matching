@@ -2,9 +2,12 @@
 Computer Vision assignments
 
 
-This assignment makes use of the SIFT descriptor [1] in order to match descriptors from two images afterwards. 
+This assignment makes use of the SIFT descriptor [1].
+Specifically, descriptors from two images are gotten and afterwards they are match following two methods (brute force and knnMatch). 
 
-OpenCV (artificial vision library) is used as well. 
+Lastly, a mosaic is created by using descriptors and homographies. 
+
+OpenCV (artificial vision library) is used in this assignment.  
 
 
 
