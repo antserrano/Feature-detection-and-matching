@@ -1,6 +1,4 @@
-# Computer-Vision
-Computer Vision assignments
-
+# Computer Vision assignment
 
 This assignment makes use of the SIFT descriptor [1].
 
@@ -12,13 +10,16 @@ OpenCV (artificial vision library) is used in this assignment.
 
 # Use
 
+Set folder "image" and file "main.py" in the same path.
+
 Run main.py and see results. 
 
-In the folder "images" you can find the images used by main.py.
+In folder "images" you can find the images used by main.py
+
 In case you would like to change the images you work with, you need to:
 
-1. Add the image to the image folder.
-2. Change the paths of the images in the "main" section in main.py
+1. Add the new images to the "image" folder.
+2. Change the image's paths in the "main" section in main.py
 
 
 # References
