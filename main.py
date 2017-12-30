@@ -219,6 +219,7 @@ if __name__ == '__main__':
     img1 = cv2.imread(path1,0)
     img2 = cv2.imread(path2,0)
     
+    # Images for the mosaic
     path3 = "images/mosaico002.jpg"
     path4 = "images/mosaico003.jpg"
     path5 = "images/mosaico004.jpg"
