@@ -7,7 +7,7 @@ These two images are of the same object/place but taken from different points of
 
 Lastly, a mosaic is created by using descriptors and homographies. 
 
-OpenCV (Open Source Computer Vision Library) is used in this assignment.  
+The code is developed in Python, using OpenCV (Open Source Computer Vision Library). 
 
 
 # Use
